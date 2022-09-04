@@ -1,6 +1,7 @@
 .container{
   background-color: red;
   display: grid;
+  display: inline;
 }
 
 .item1{
